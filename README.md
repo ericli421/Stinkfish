@@ -1,3 +1,6 @@
+# Stinkfish
+This is a modified version of Stockfish designed to play the worst possible move in every position
+
 <div align="center">
 
   [![Stockfish][stockfish128-logo]][website-link]
